@@ -10,6 +10,8 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm used for
 SVM is a versatile algorithm that can be used for classification and regression tasks, particularly when dealing with small to medium-sized datasets, high-dimensional spaces, 
 and when a clear margin of separation exists between classes.
 
+A support vector machine (SVM) is a supervised learning algorithm used for classification tasks. It works by finding the hyperplane that best separates the classes in the feature space while maximizing the margin between the classes. 
+
 # When to Use SVM (Classification: multiclass family):
 1) Binary or Multiclass Classification:
 2) Clear Margin of Separation: SVM works well when there is a clear margin of separation between classes. If the classes are linearly separable or nearly separable, SVM can be a good choice.
