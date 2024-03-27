@@ -78,6 +78,18 @@ The dual formulation enables the use of kernel tricks and more effective computi
 
 ![image](https://github.com/Tiwari666/Super-Vector-Machine-SVM-/assets/153152895/1980f8e7-3796-473f-bb5c-7c154c5557da)
 
+![image](https://github.com/Tiwari666/Super-Vector-Machine-SVM-/assets/153152895/a70ba277-270c-40c7-93fc-cfede7d66a60)
+
+# How SVM works?
+A) Finding the Hyperplane: SVM aims to find the hyperplane that best separates the two classes. This hyperplane is the decision boundary.
+
+B) Maximizing Margin: SVM not only finds a separating hyperplane but also aims to maximize the margin, which is the distance between the hyperplane and the nearest data points (support vectors) from each class. This margin maximization is crucial because it helps SVM generalize better to unseen data.
+
+C) Dealing with Non-Linear Data: In cases where the data is not linearly separable, SVM uses a technique called the kernel trick. It maps the input data into a higher-dimensional space where it might become linearly separable. Common kernel functions include linear, polynomial, radial basis function (RBF), and sigmoid.
+
+D) Classification: Once the hyperplane is determined, classifying new data points involves checking which side of the hyperplane they fall on. If a point lies on one side, it belongs to one class; if it lies on the other side, it belongs to the other class.
+
+
 SOURCES:
 1. Link1: https://www.geeksforgeeks.org/support-vector-machine-algorithm/
 2. Different Online Sources
