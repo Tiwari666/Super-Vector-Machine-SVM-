@@ -72,7 +72,15 @@ The dual formulation enables the use of kernel tricks and more effective computi
 
 ![image](https://github.com/Tiwari666/Super-Vector-Machine-SVM-/assets/153152895/289315d7-add6-4187-8bc6-904cb441b0fa)
 
+
+![image](https://github.com/Tiwari666/Super-Vector-Machine-SVM-/assets/153152895/a36d6a5d-cb69-4cbb-9c87-f71e32162026)
+
+
+![image](https://github.com/Tiwari666/Super-Vector-Machine-SVM-/assets/153152895/1980f8e7-3796-473f-bb5c-7c154c5557da)
+
 SOURCES:
 1. Link1: https://www.geeksforgeeks.org/support-vector-machine-algorithm/
 2. Different Online Sources
 3. Link3: https://www.analyticsvidhya.com/blog/2021/10/support-vector-machinessvm-a-complete-guide-for-beginners/
+4. Link4: https://medium.com/@davidfagb/understanding-the-support-vector-machine-svm-model-c8eb9bd54a97
+   
