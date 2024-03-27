@@ -1,6 +1,8 @@
-Supervised – Here, we have the labeled/classified data to train the machines.
-Unsupervised – Here, we do not have labeled/classified data to train the machines.
-Reinforced – Here, we train the machines through rewards on the right decisions
+Supervised –  we use the labeled/classified data to train the machines.
+
+Unsupervised – we do not have labeled/classified data to train the machines.
+
+Reinforced –  we train the machines through rewards on the right decisions.
 
 # Super Vector Machine  (SVM): (e.g., high dimensional data--text or image classification)
 Support Vector Machine (SVM) is a supervised machine learning algorithm used for both classification and regression.
