@@ -1,1 +1,0 @@
-# Super Vector Machine  (SVM)
