@@ -19,6 +19,13 @@ A support vector machine (SVM) is a supervised learning algorithm used for class
    to separate the classes in the feature space.
 4) Robustness to Overfitting:SVM aims to maximize the margin between classes, which helps in generalizing well to unseen data and prevents overfitting, making it suitable for datasets with noisy or complex patterns.
 
+# Note: 
+If the data points are plotted in a 2-dimensional graph, then the decision boundary (similar to the line of best fit) is referred to as a straight line. However, if there are more than two dimensions, these are referred to as hyperplanes. While there may be multiple hyperplanes that separate the classes, SVM chooses the one with the maximum distance between the classes to distinguish classes clearly.
+
+SVM is different from the classification due to the Kernel. So, kernels are a class of algorithms used for pattern analysis in the SVM.
+
+SVMs without kernels may have similar performance as that of logistics regression algorithm. Unlike the logistic regression algorithm which considers all data points, the support vector (data poiints) classifier only considers the data points closest to the hyperplane i.e. the Support Vector
+
 # When to Use SVR (Regression--non-linaer relationship):
 
 1) Continuous Target Variable: SVR is suitable for regression tasks where the target variable is continuous rather than categorical. It can predict numerical values based on input features.
